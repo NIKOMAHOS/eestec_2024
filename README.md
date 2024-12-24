@@ -16,7 +16,7 @@ We used the [Sentiment140 Dataset](https://www.kaggle.com/datasets/kazanova/sent
 - **Positive**: Labeled as 0
 - **Negative**: Labeled as 1
 
-From this dataset, 200,000 tweets were randomly selected (100,000 for each class) for training and testing.
+From this dataset, *200,000 tweets were randomly selected (100,000 for each class) for training and testing*.
 
 ## Approach
 
@@ -46,10 +46,13 @@ From this dataset, 200,000 tweets were randomly selected (100,000 for each class
 ## How to Run
 
 1. Clone this repository:
-   git clone https://github.com/your-repo-url.git
+
+     git clone [https://github.com/NIKOMAHOS/eestec_2024](https://github.com/NIKOMAHOS/eestec_2024)
    
 2. Install Dependencies:
-   pip install -r requirements.txt
+   
+     pip install -r requirements.txt
 
  3. Open and run the `final.ipynb` notebook:
-   jupyter notebook final.ipynb
+    
+     jupyter notebook final.ipynb
